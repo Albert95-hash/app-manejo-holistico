@@ -1,0 +1,10 @@
+// Motor de cálculo de HOLOS (SPEC sección 4): funciones puras, sin interfaz ni base de datos.
+export * from './tipos'
+export * from './comunes'
+export * from './alertas'
+export * from './planAbierto'
+export * from './planCerrado'
+export * from './calendario'
+export * from './registro'
+export * from './monitoreo'
+export * from './mapa'
